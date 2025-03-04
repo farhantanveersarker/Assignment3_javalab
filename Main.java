@@ -1,7 +1,7 @@
 //Main.java
-//Name: Lochan Paudel
-//PRN: 23070126170
-//Batch: AIML A3
+//Name: MD FARHAN TANVEER SARKER
+//PRN: 23070126157
+//Batch: AIML B3
 
 import java.util.*;
 
